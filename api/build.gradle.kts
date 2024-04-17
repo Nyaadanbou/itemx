@@ -3,7 +3,7 @@ plugins {
     id("cc.mewcraft.publishing-conventions")
 }
 
-group = "cc.mewcraft.spatula.item"
+group = "cc.mewcraft.universalitems"
 version = "1.0.0"
 description = "Centralize the code related to custom plugin items."
 

@@ -6,11 +6,11 @@ plugins {
     alias(libs.plugins.pluginyml.paper)
 }
 
-group = "cc.mewcraft.spatula.item"
+group = "cc.mewcraft.universalitems"
 version = "1.0.0"
 description = "Centralize the code related to custom plugin items."
 
-project.ext.set("name", "SpatulaItems")
+project.ext.set("name", "UniversalItems")
 
 dependencies {
     // Server API
